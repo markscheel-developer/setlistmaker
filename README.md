@@ -7,3 +7,9 @@ Since mobile Browsers lack the HTML5 DnD Api  I needed to add  Poly-touch.js as 
 To see the programm in action you go to 
 
 www.markscheel.de/archiv/setlistmaker
+
+You can add/delete/rename  performances
+You can add/delete/rename  titles
+You can duplicate          performances
+
+On the column on the right side you find your songpool
